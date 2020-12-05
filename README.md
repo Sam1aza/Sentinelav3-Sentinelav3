@@ -6,4 +6,12 @@ Aplicação criada com React, utilizando como BAAS o Firebase (Realtime Database
 
 ![](/src/assets/Home.png)
 
+![](/src/assets/Glicose.png)
+
+![](/src/assets/Pressao.png)
+
+![](/src/assets/Medicamentos.png)
+
+![](/src/assets/Historico.png)
+
 
