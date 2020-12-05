@@ -1,7 +1,7 @@
 ## Sentinela Versão web 1.0
 
-### `npm run build`
+Versão web como base inicial da aplicação ### Sentinela ### de monitoramento da medicação e registro das medições de glicose, pressão arterial e batimento cardiaco do paciente Amauri.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Aplicação criada com React, utilizando como BAAS o Firebase (Realtime Database, Authentication e Hosting), Font Awesome e bootstrap para a parte de layout/desing.
+
 
