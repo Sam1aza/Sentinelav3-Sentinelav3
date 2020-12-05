@@ -1,0 +1,18 @@
+.btnsalvar {
+    margin-right: 15px;
+    
+
+}
+
+.botoesAcao{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.formToCheck{
+    margin-left: 15px;
+    
+}
+
+
+
